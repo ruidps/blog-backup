@@ -110,6 +110,7 @@ navbar:
         分类: /categories
         标签: /tags
         监控: /status
+        友链: /links
         关于: /about
     # Links to be shown on the right of the navigation bar
     links:
